@@ -1,0 +1,129 @@
+#home{
+  background-image: url("wallpapersden.com_small-memory_1920x1080.jpg");
+  padding-bottom: 200px;
+  margin-top: -10px;
+}
+#img2 {
+  width: 300px;
+  height: 400px;
+  margin-right: 50px; /* Adjust margin as needed */
+  float: right;
+  display: inline-block;
+}
+#black{
+  color: black;
+}
+nav{
+  text-align: center;
+}
+nav ul{
+  list-style: none;
+  color: aliceblue;
+}
+nav li{
+  display: inline;
+  margin-right: 100px;
+  font-size: 30px;
+
+}
+nav a{
+  color: black;
+}
+body{
+  background-color:wheat;
+  font-family: 'Cambria', serif;
+  
+}
+#title{
+  font-size: 90px;
+  color:turquoise;
+  text-align: center;
+  margin-top: 150px;
+}
+#intro {
+  width: 50%;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 30px;
+  display: inline-block;
+  margin-bottom: 100px;
+}
+#password{
+  float: left;
+  margin-left: 50px;
+  margin-right: 220px;
+  height: 180px;
+  width: 320px;
+}
+#bank{
+  margin-right: 50px;
+  float: right;
+  height: 180px;
+  width: 320px;
+}
+#dsa{
+  height: 180px;
+  width: 320px;
+}
+#project-intro{
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+}
+#password-text{
+  margin-left: 90px;
+  font-size: 30px;
+  display: inline-block;
+  margin-right: 290px;
+  color: black;
+}
+#dsa-text{
+  font-size: 30px;
+  text-align: center;
+  display: inline-block;
+  color: black;
+  padding-right: 80px;
+  margin-right: 60px;
+}
+#bank-text{
+  margin-right: 100px;
+  float: right;
+  font-size: 30px;
+  display: inline-block;
+  color: black;
+  
+}
+#gmail{
+  width: 100px;
+  height: 100px;
+  margin-left: 300px;
+  display: inline-block;
+}
+#phone{
+  float: right;
+  width: 100px;
+  height: 100px;
+  margin-right: 300px;
+  display: inline-block;
+}
+
+#github{
+  width: 100px;
+  height: 100px;
+  margin-left: 300px;
+  display: inline-block;
+}
+#git{
+  display: inline-block;
+  margin-right:260px;
+  color: black;
+  text-decoration: none;
+}
+#email{
+  display: inline-block;
+  margin-right:260px;
+  margin-left:280px;
+}
+#number{
+  display: inline-block;
+}
